@@ -1,2 +1,2 @@
 # random-card-generator
-This project is part of my learning process in vibe coding, where I use AI tools to build simple, functional apps while improving my understanding of programming logic.  This app was created with the help of Claude AI.
+This is my second project as I learn vibe coding. I’m building simple apps with AI tools to understand how they work. I used ChatGPT to generate the instructions and Claude AI to build the app.
